@@ -169,7 +169,7 @@ module.exports =
                     }
                     case 1:
                     {
-                        if (m.content !== "32")
+                        if (m.content !== "1234")
                             msg.channel.sendEmbed("Whoops! That's not the correct number! Make sure you read the rules thoroughly. You'll find it in there if you look hard enough! (**Make sure you enter a number, and not text.**)");
                         else
                         {
