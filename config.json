@@ -1,0 +1,12 @@
+﻿{
+  "prefix": "!",
+  "token": "t o k e n",
+  "logchannel": "123456789123456789",
+  "generalchannel": "123456789123456789",
+  "servercommandschannel": "123456789123456789",
+  "activitychannel": "123456789123456789",
+  "chatchannel": "123456789123456789",
+  "staffchannel": "123456789123456789",
+  "applicationschannel": "123456789123456789",
+  "serverprefix": "/"
+}
